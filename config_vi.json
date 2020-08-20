@@ -483,44 +483,6 @@
       ],
       "countColumn":4,
       "radius":10.0
-    },
-    {
-    "title":"BÁO CHÍ",
-    "isSafeArea":true,
-    "showSearch":false,
-    "padding":16.0,
-    "height":0.09,
-    "fontSize":18.0,
-    "layout":"header_text"
-    },
-    {
-      "layout":"bannerImage",
-      "isSlider":true,
-      "autoPlay":true,
-      "design":"default",
-      "items":[
-        {
-          "image":"https://hoasunny.com/wp-content/uploads/2020/07/baochi_1061baochi_32-medium.jpg",
-          "padding":15.0,
-          "url":"https://eva.vn"
-        },
-        {
-          "image":"https://hoasunny.com/wp-content/uploads/2020/07/baochi_1060baochi_34-medium.jpg",
-          "padding":15.0,
-          "url":"https://vnexpress.net"
-        },
-        {
-          "image":"https://hoasunny.com/wp-content/uploads/2020/07/baomoi-logo-medium.png",
-          "padding":15.0,
-          "url":"https://baomoi.com"
-        },
-        {
-          "image":"https://hoasunny.com/wp-content/uploads/2020/08/baochi_1065topsao-medium.png",
-          "padding":15.0,
-          "url":"https://topsao.vn"
-        }
-      ],
-      "radius":6.0
     }
   ],
   "Setting": {
