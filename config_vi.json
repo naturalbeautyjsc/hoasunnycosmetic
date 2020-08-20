@@ -494,7 +494,7 @@
     "layout":"header_text"
     },
     {
-      "layout":"logo",
+      "layout":"bannerImage",
       "isSlider":true,
       "autoPlay":true,
       "design":"default",
